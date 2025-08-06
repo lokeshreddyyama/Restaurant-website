@@ -389,6 +389,7 @@ form h1 {
     #menu-icon {
         display: block;
         color: var(--text-color);
+        background-color: #10eb6b;
     }
 
     header .navbar {
@@ -399,7 +400,7 @@ form h1 {
         display: flex;
         flex-direction: column;
         text-align: center;
-        background: #2b2640;
+        background: #41b753;
         transition: .3s;
     }
 
